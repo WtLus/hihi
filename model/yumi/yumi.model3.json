@@ -6,41 +6,7 @@
 			"yumi.8192/texture_00.png"
 		],
 		"Physics": "yumi.physics3.json",
-		"DisplayInfo": "yumi.cdi3.json",
-		"Expressions": [
-			{
-				"Name": "tear.motion3",
-				"File": "tear.motion3.json"
-			},
-			{
-				"Name": "wave.motion3",
-				"File": "yumi/wave.motion3.json"
-			},
-			{
-				"Name": "yumi.cdi3",
-				"File": "https://github.com/WtLus/hi/blob/main/model/yumi/yumi.cdi3.json"
-			},
-			{
-				"Name": "yumi.model3",
-				"File": "https://github.com/WtLus/hi/blob/main/model/yumi/yumi.model3.json"
-			},
-			{
-				"Name": "yumi.physics3",
-				"File": "https://github.com/WtLus/hi/blob/main/model/yumi/yumi.physics3.json"
-			},
-			{
-				"Name": "yumi.tube3",
-				"File": "https://github.com/WtLus/hi/blob/main/model/yumi/yumi.tube3.json"
-			},
-			{
-				"Name": "爱眼.exp3",
-				"File": "https://github.com/WtLus/hi/blob/main/model/yumi/爱眼.exp3.json"
-			},
-			{
-				"Name": "酷炫1.exp3",
-				"File": "https://github.com/WtLus/hi/blob/main/model/yumi/酷炫1.exp3.json"
-			}
-		]
+		"DisplayInfo": "yumi.cdi3.json"
 	},
 	"Groups": [
 		{
