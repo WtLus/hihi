@@ -9,16 +9,29 @@
 		"DisplayInfo": "yumi.cdi3.json",
 		"Expressions": [
   {
-    "Name": "yumi.vtube",
-    "File": "yumi.vtube.json"
+    "Name": "爱心眼",
+    "File": "爱心眼.exp3.json"
   },
+			  {
+    "Name": "短发1",
+    "File": "短发1.exp3.json"
+  },
+			  {
+    "Name": "短发2",
+    "File": "短发2.exp3.json"
+  },
+			 
   {
-    "Name": "倚身按键",
-    "File": "倚身按键.exp3.json"
+    "Name": "俯身按键",
+    "File": "俯身按键.exp3.json"
   },
   {
     "Name": "拾手左",
     "File": "拾手左.exp3.json"
+  },
+			{
+    "Name": "拾手右",
+    "File": "拾手右.exp3.json"
   },
   {
     "Name": "拿话筒",
@@ -29,8 +42,8 @@
     "File": "星星眼.exp3.json"
   },
   {
-    "Name": "至嘴",
-    "File": "至嘴.exp3.json"
+    "Name": "歪嘴",
+    "File": "歪嘴.exp3.json"
   },
   {
     "Name": "泪汪汪",
@@ -41,36 +54,26 @@
     "File": "漂浮小狗.exp3.json"
   },
   {
-    "Name": "爱心眼",
-    "File": "爱心眼.exp3.json"
+    "Name": "蚊香眼",
+    "File": "蚊香眼.exp3.json"
   },
   {
     "Name": "猫猫嘴",
     "File": "猫猫嘴.exp3.json"
   },
+
+  {
+    "Name": "眼罩",
+    "File": "眼罩.exp3.json"
+  },
+  
+  {
+    "Name": "舌头伸出",
+    "File": "舌头伸出.exp3.json"
+  },
   {
     "Name": "眼泪",
     "File": "眼泪.exp3.json"
-  },
-  {
-    "Name": "眼眶",
-    "File": "眼眶.exp3.json"
-  },
-  {
-    "Name": "短发1",
-    "File": "短发1.exp3.json"
-  },
-  {
-    "Name": "短发2",
-    "File": "短发2.exp3.json"
-  },
-  {
-    "Name": "百头伸出",
-    "File": "百头伸出.exp3.json"
-  },
-  {
-    "Name": "收香裙",
-    "File": "收香裙.exp3.json"
   },
   {
     "Name": "黑脸",
