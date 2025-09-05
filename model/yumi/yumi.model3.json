@@ -7,7 +7,16 @@
     ],
     "Physics": "yumi.physics3.json",
     "DisplayInfo": "yumi.cdi3.json",
-   
+
+"Motions": {
+      
+      "TapBody": [
+        {
+          "File": "抬手右.exp3.json"
+        }
+      ]
+    }
+    
     "Expressions": [
       { "Name": "爱心眼", "File": "爱心眼.exp3.json" },
       { "Name": "短发1", "File": "短发1.exp3.json" },
