@@ -4,12 +4,14 @@
 		"Moc": "yumi.moc3",
 		"Textures": [
 			"yumi.8192/texture_00.png"
-		],
+		]
+
+		
+		"Physics": "yumi.physics3.json",
+		"DisplayInfo": "yumi.cdi3.json",
 
 
-
-
-    "Expressions": [
+		 "Expressions": [
       {
         "Name": "tear.motion3",
         "File": "tear.motion3.json"
@@ -45,17 +47,6 @@
      
     ]
 
-
-
-		
-
-
-
-		
-
-		
-		"Physics": "yumi.physics3.json",
-		"DisplayInfo": "yumi.cdi3.json"
 	},
 	"Groups": [
 		{
