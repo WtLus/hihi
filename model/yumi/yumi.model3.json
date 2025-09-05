@@ -8,14 +8,6 @@
     "Physics": "yumi.physics3.json",
     "DisplayInfo": "yumi.cdi3.json",
 
-"Motions": {
-      
-      "TapBody": [
-        {
-          "File": "黑脸.exp3.json"
-        }
-      ]
-    },
     
     "Expressions": [
       { "Name": "爱心眼", "File": "爱心眼.exp3.json" },
@@ -35,7 +27,18 @@
       { "Name": "舌头伸出", "File": "舌头伸出.exp3.json" },
       { "Name": "眼泪", "File": "眼泪.exp3.json" },
       { "Name": "黑脸", "File": "黑脸.exp3.json" }
-    ]
+    ],
+
+
+    
+"Motions": {
+      
+      "TapBody": [
+        {
+          "File": "黑脸.exp3.json"
+        }
+      ]
+    }
   },
   "Groups": [
     {
