@@ -9,16 +9,10 @@
     "DisplayInfo": "yumi.cdi3.json",
     "Motions": {
       "Idle": [
-       
-        "File": "抬手右.exp3.json" 
-       
-        
+        { "File": "抬手右.exp3.json" }
       ],
       "TapBody": [
-       "File": "爱心眼.exp3.json"
-        
-     
-        
+        { "File": "爱心眼.exp3.json" }
       ]
     },
     "Expressions": [
