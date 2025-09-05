@@ -10,14 +10,14 @@
     "Motions": {
       "Idle": [
        
-        { "File": "抬手右.exp3.json" },
+        "File": "抬手右.exp3.json" 
        
-        { "File": "短发2.exp3.json" }
+        
       ],
       "TapBody": [
-       
-        { "File": "黑脸.exp3.json" },
-        { "File": "舌头伸出.exp3.json" }
+       "File": "爱心眼.exp3.json"
+        
+     
         
       ]
     },
