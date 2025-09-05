@@ -6,7 +6,8 @@
 			"yumi.8192/texture_00.png"
 		],
 		"Physics": "yumi.physics3.json",
-		"DisplayInfo": "yumi.cdi3.json"
+		"DisplayInfo": "yumi.cdi3.json",
+		
 	},
 	"Groups": [
 		{
