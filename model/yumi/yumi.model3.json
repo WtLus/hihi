@@ -5,33 +5,10 @@
 		"Textures": [
 			"yumi.8192/texture_00.png"
 		],
-		"Physics": "yumi.physics3.json",
-		"DisplayInfo": "yumi.cdi3.json"
-	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": [
-				"ParamEyeOpenL",
-				"ParamEyeOpenR"
-			]
-		},
-		{
-			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": []
-		}
-	]
-}
 
 
 
 
-
-
-{
-  "FileReferences": {
     "Expressions": [
       {
         "Name": "tear.motion3",
@@ -67,5 +44,40 @@
       }
      
     ]
-  }
+
+
+
+		
+
+
+
+		
+
+		
+		"Physics": "yumi.physics3.json",
+		"DisplayInfo": "yumi.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeOpenL",
+				"ParamEyeOpenR"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
 }
+
+
+
+
+
+
+  
+
